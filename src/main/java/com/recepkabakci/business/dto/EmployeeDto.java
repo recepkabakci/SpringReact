@@ -1,4 +1,4 @@
-package com.recepkabakci.dto;
+package com.recepkabakci.business.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
