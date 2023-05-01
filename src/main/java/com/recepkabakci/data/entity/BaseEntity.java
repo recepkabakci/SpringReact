@@ -1,4 +1,4 @@
-package com.recepkabakci.entity;
+package com.recepkabakci.data.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;
